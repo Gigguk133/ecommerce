@@ -3,17 +3,17 @@ const products = [
     {
         name: "Plain Black Hoodie",
         price: 2513,
-        image: "black hoodie.jpg"
+        image: "images/black hoodie.jpg"
     },
     {
         name: "Plain Brown Hoodie",
         price: 2513,
-        image: "brown hoodie.jpg"
+        image: "images/brown hoodie.jpg"
     },
     {
         name: "Bluetooth Speaker",
         price: 2513,
-        image: "grey hoodie.webp"
+        image: "images/grey hoodie.webp"
     },
     
 ];
